@@ -9,14 +9,14 @@ Working with Google Maps API
 And most importantly fetching data from unlimited sources using RapidAPI
 .
 
-<p>
+
 ## API used
 
  - [Rapid API](https://rapidapi.com/hub?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
  - [Travel Advisor API](https://rapidapi.com/apidojo/api/travel-advisor?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
  - [Weather API](https://rapidapi.com/category/Weather)
 
-</p>
+
 ## Author
 
 - [@Naveen Kumar Giri](https://github.com/blaze7frost)
